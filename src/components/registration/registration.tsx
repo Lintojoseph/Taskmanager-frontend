@@ -22,7 +22,7 @@ const Register=()=>{
 
                     </div>
                     <div className="mt-3">
-                        <button type="submit"className="border-2 border-indigo-600 bg-blue-500 rounded-lg p-1 item-center text-bold text-white w-full hover:background-transparent hover:text-indigo-100">Register</button>
+                        <button type="submit"className="border-2 border-indigo-100 bg-blue-500 rounded-lg p-1 item-center text-bold text-white w-full hover:bg-blue-800 hover:text-indigo-100">Register</button>
                     </div>
 
                 </div>
